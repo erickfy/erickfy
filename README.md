@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my roadmap developer 2021**
 
-- 👯 I’m looking to collaborate on **Google**
+- 👯 I’m looking to collaborate on **...**
 
 - 💬 Ask me about **react**
 
