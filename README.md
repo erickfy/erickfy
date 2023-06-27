@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Erick Andrade</h1>
 <h3 align="center">A passionate frontend developer from Ecuador :small_airplane:</h3>
 
-- 🔭 I’m currently working on **my roadmap developer 2021**
+- 🔭 I’m currently working on the last tendencies of the market.
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 I’m looking to collaborate on huge and small projects.
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
