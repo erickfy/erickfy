@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">🌟 Over +1 year of dedicated experience as a software developer, specializing in both mobile and web technologies. My journey has been centered around creating innovative and user-centric applications that adapt seamlessly to the ever-evolving market landscape.</h3>
+- 🌟 Over +1 year of dedicated experience as a software developer, specializing in both mobile and web technologies. My journey has been centered around creating innovative and user-centric applications that adapt seamlessly to the ever-evolving market landscape.
 
 - 📱 On the mobile front, I've crafted intuitive and high-performance apps that cater to diverse platforms, ensuring a delightful user experience. In the web realm, I've delivered responsive and visually appealing websites that keep pace with the latest industry trends.
 
