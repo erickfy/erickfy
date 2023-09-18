@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:aguilakrakatoa@gmail.com" target="blank"><img align="center" src="URL_DE_TU_IMAGEN" alt="aguilakrakatoa" height="30" width="40" /></a>
+<a href="mailto:aguilakrakatoa@gmail.com" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/66393507?v=4" alt="aguilakrakatoa" height="30" width="40" /></a>
 </p>
 
 
